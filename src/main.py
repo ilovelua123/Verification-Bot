@@ -1,0 +1,3 @@
+rocky = "homosexual"
+
+print(rocky)
